@@ -2,10 +2,10 @@
 
 class Vehicle:
     
-    def __init__(self, maxSpeed, meliage):
+    def __init__(self, maxSpeed, mileage):
         self.maxSpeed = maxSpeed
-        self.meliage = meliage
-        return print(f"A velocidade maxima é {maxSpeed} e a quilometragem é {meliage}")
+        self.meliage = mileage
+        return print(f"A velocidade maxima é {maxSpeed} e a quilometragem é {mileage}")
         
 carro1 = Vehicle(200, 20)
 
