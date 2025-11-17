@@ -72,6 +72,7 @@ Este repositório reúne meu plano de estudos e projetos práticos para dominar:
   *Como estudo*: artigo teórico + implementar um pequeno projeto (ex.: gerenciador de tarefas orientado a objetos) e commitar no repo.
 - **Vídeo recomendado**: aulas concisas (Corey Schafer / Tech With Tim) para ver exemplos executando.  
   *Como estudo*: assistir com o editor aberto e pausar para digitar o código.
+- Achei um site interessante para eu usar com exercicios: https://pynative-com.translate.goog/python-object-oriented-programming-oop-exercise/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc#h-oop-exercise-1-create-a-class-with-instance-attributes
 
 ### Programação Assíncrona
 - **Documentação `asyncio` (Python docs)**  
