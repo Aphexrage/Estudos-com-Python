@@ -1,9 +1,11 @@
 from Vehicle import *
 
 class Aviao(Vehicle):
-    pass
+    
+    # Aplicando o polimorfismo no metodo passageiros
+    def passageiros(self, capacidade=200):
+        return super().passageiros(capacidade=200)
+    
+boeing = Aviao("Boeing 737", 1000, 10000) 
 
-Aviao = Vehicle
-Aviao("Jato", 4000, 1000)
-
-Aviao.passageiros(10)
+print(boeing.passageiros())
