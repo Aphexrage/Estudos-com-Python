@@ -1,4 +1,4 @@
-from Vehicle import *
+from Vehicle import Vehicle
 
 class Onibus(Vehicle):
     pass

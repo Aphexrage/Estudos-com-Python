@@ -1,6 +1,6 @@
 # Vou realizar um teste sem usar polimorfismo:
 
-from Vehicle import *
+from Vehicle import Vehicle
 
 class Teste:
     
