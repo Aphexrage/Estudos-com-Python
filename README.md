@@ -74,6 +74,7 @@ Este repositório reúne meu plano de estudos e projetos práticos para dominar:
   *Como estudo*: assistir com o editor aberto e pausar para digitar o código.
 - Achei um site interessante para eu usar com exercicios:
   https://pynative.com/python-object-oriented-programming-oop-exercise/
+  https://www.w3resource.com/python-exercises/oop/index.php
   
 ### Programação Assíncrona
 - **Documentação `asyncio` (Python docs)**  
