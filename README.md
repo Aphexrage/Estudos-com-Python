@@ -107,18 +107,7 @@ Este repositório reúne meu plano de estudos e projetos práticos para dominar:
 ### Insomnia
 - **Docs / GUI do Insomnia**  
   *Como estudo*: criar collection, escrever testes, salvar environment variables (chaves locais), testar endpoints do FastAPI.
-
----
-
-## Descrição da forma que estou estudando (metodologia)
-- **Timebox**: 2 horas por tópico (teoria 40% / prática 50% / revisão + quiz 10%).  
-- **Prática imediata**: sempre que leio um conceito, escrevo um snippet que o use (não virar espectador).  
-- **Mini-projetos**: cada tópico exige um mini-projeto (ex.: POO → modelagem; Async → downloader; Concorrente → benchmark; LangChain → RAG simples; FastAPI → API wrapper).  
-- **Testes e métricas**: escrever testes unitários e medir performance (tempo de execução) onde faz sentido.  
-- **Versionamento**: commits frequentes, README por projeto com instruções de execução.  
-- **Documentação pessoal**: notas curtas em `notebook.md` (ou Obsidian) com “erros que cometi” e soluções. Aprender com dor é eficaz.  
-- **Revisão semanal**: consolidar o que funcionou e adaptar o plano.
-
+  
 ---
 
 ## Bibliografia / Links de referência
