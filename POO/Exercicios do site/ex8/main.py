@@ -14,4 +14,3 @@ class Bus(Vehicle, Teste):
     print(isinstance(onibus, Vehicle))
     print(isinstance(onibus, Teste))
     
-    
