@@ -20,4 +20,4 @@ class Vehicle:
         self.capacidade = capacidade
         
     def calculo(self):
-        return f"A tarifa total do onibus é: {self.capacidade * 100}"
+        return self.capacidade * 100

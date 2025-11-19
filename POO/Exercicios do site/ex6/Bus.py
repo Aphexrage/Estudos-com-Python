@@ -1,7 +1,7 @@
-from Vehicle import *
+from Vehicle import Vehicle
 
 class Bus(Vehicle):
     
-    bus = Vehicle("1234T", 70, 10000, 50)
-    print(bus.calculo())
-    
+    def calculo(self):
+        tarifa = super().calculo()
+        return tarifa + tarifa * 0.10 
