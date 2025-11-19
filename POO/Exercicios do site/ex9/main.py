@@ -22,24 +22,7 @@ class Puppy(Dog):
 class Cat:
     pass
     
-if issubclass(Dog, Animal):
-    print(True)
-else:
-    print(False)
-    
-if issubclass(Animal, Dog):
-    print(True)
-else:
-    print(False)
-    
-if issubclass(Cat, Animal):
-    print(True)
-else:
-    print(False)
-    
-if issubclass(Puppy, Animal):
-    print(True)
-else:
-    print(False)
-    
-
+print(issubclass(Dog, Animal))
+print(issubclass(Animal, Dog))
+print(issubclass(Cat, Animal))
+print(issubclass(Puppy, Animal))
