@@ -37,7 +37,7 @@ Este repositório reúne meu plano de estudos e projetos práticos para dominar:
 ### POO (Python)
 - Conceitos: classe, instância, atributos, métodos, encapsulamento, herança, composição, polimorfismo.
 - Padrões comuns: factory, singleton (quando for apropriado), containers imutáveis.
-- Aplicação prática: modelagem de domínios, testes unitários e refatoração orientada a objetos.
+- Aplicação prática: modelagem de domínios e refatoração orientada a objetos.
 
 ### Programação Assíncrona
 - `async/await`, coroutines, event loop (`asyncio`).
