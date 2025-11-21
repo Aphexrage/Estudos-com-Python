@@ -20,7 +20,7 @@ async def funcao3():
         await asyncio.sleep(1)
 
 async def main():
-    task1 = asyncio.create_task(funcao1())
+    task1 = asyncio.create_task(funcao1())  
     task3 = asyncio.create_task(funcao3())
 
     await asyncio.sleep(0)
